@@ -1,9 +1,6 @@
-Hi, I am **Vilmos Kintera** from Budapest, Hungary.
+Hi, I am **Vilmos Kintera** from Budapest, Hungary, currently living in Kyoto, Japan.
 
 I have been working with **Microsoft Dynamics AX (formerly Axapta)** on-premises, then later on **Microsoft Dynamics 365 Finance and Supply Chain Management** cloud ERP systems since 2003.
-
-
-The handle comes from my fascination with technology on a deep level: RunBase classes for Dynamics are among those, so I chose @DAXRunBase
 
 
 I am interested in ERP software development and surrounding technologies, to name a few:
@@ -14,7 +11,7 @@ I am interested in ERP software development and surrounding technologies, to nam
 - Automations (build and release management, monitoring, etc.)
 
 
-I recently began to study at <img src="./University_of_London_coat_of_arms.svg" width=15px> **University of London**'s new World Class to finish my Bachelor in Science Degree. The curriculum introduces adoption of a lot of current, very exciting and relevant advanced technologies.
+I have graduated at <img src="./University_of_London_coat_of_arms.svg" width=15px> **University of London**'s new World Class to finish my Bachelor's Degree in Computer Science. The curriculum introduces adoption of a lot of current, very exciting and relevant advanced technologies.
 
 ### Recent Blog Posts :
 
